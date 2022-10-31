@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* 2020-present **PhD** in Chemical Oceanography, Florida State University, advisor: Dr. Angela Knapp
+* 2018-2020 **M.S.** in Chemical Oceanography, Florida State University, advisor: Dr. Angela Knapp
+* 2014-2018 **B.S.**in Chemistry w/marine concentration, Ocean University of China
 
 Work experience
 ======
