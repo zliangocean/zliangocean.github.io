@@ -22,6 +22,14 @@ Academic Positions
 
 Publications
 ======
+* **Liang, Z.**, Letscher, R.T. & Knapp, A.N. Dissolved organic phosphorus concentrations in the surface ocean controlled by both phosphate and iron stress. Nat. Geosci. 15, 651–657 (2022). https://doi.org/10.1038/s41561-022-00988-1'
+
+* Knapp, A. N., Letscher, R. T., **Liang, Z.** (2022) DOP concentration observations from the global ocean between 1990 and 2021 (DOP N2 fixation and export production project). Biological and Chemical Oceanography Data Management Office (BCO-DMO). (Version 3)
+
+* Yan, Z., Yang, N., **Liang, Z.**, Yan, M., Zhong, X., Zhang, Y., ... & Xin, Y. (2021). Active dissolved organic nitrogen cycling hidden in large river and environmental implications. Science of The Total Environment, 795, 148882.
+
+* **LIANG Zhou**,PAN Yanghang,ZHU Siteng,et al.Spatiotemporal distribution and influencing factors of total suspended particles in the Yangtze River Estuary adjacent sea area[J].Journal of Xiamen University(Natural Science),2020,59(S1):50-55.https://doi.org/10.6043/j.issn.0438-0479.202007117] (in Chinese)
+
 
 Field Experiences
 ======
