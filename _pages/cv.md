@@ -28,7 +28,7 @@ Publications
 
 * Yan, Z., Yang, N., **Liang, Z.**, Yan, M., Zhong, X., Zhang, Y., ... & Xin, Y. (2021). Active dissolved organic nitrogen cycling hidden in large river and environmental implications. Science of The Total Environment, 795, 148882.
 
-* **LIANG Zhou**,PAN Yanghang,ZHU Siteng,et al.Spatiotemporal distribution and influencing factors of total suspended particles in the Yangtze River Estuary adjacent sea area[J].Journal of Xiamen University(Natural Science),2020,59(S1):50-55.https://doi.org/10.6043/j.issn.0438-0479.202007117] (in Chinese)
+* **Liang, Z.**,Pan, Y,Zhu,S,et al.Spatiotemporal distribution and influencing factors of total suspended particles in the Yangtze River Estuary adjacent sea area[J].Journal of Xiamen University(Natural Science),2020,59(S1):50-55.[https://doi.org/10.6043/j.issn.0438-0479.202007117](https://doi.org/10.6043/j.issn.0438-0479.202007117) (in Chinese)
 
 
 Field Experiences
