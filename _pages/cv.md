@@ -24,9 +24,13 @@ Publications
 ======
 * **Liang, Z.**, Letscher, R.T. & Knapp, A.N. Dissolved organic phosphorus concentrations in the surface ocean controlled by both phosphate and iron stress. Nat. Geosci. 15, 651–657 (2022). [https://doi.org/10.1038/s41561-022-00988-1](https://doi.org/10.1038/s41561-022-00988-1)
 
-* Knapp, A. N., Letscher, R. T., **Liang, Z.** DOP concentration observations from the global ocean between 1990 and 2021 (DOP N2 fixation and export production project). Biological and Chemical Oceanography Data Management Office (BCO-DMO), (2022). [https://doi.org/10.26008/1912/bco-dmo.855139.3](https://doi.org/10.26008/1912/bco-dmo.855139.3)
+* **Liang, Z.**, McCabe, K., Fawcett, S.E. et al. A global ocean dissolved organic phosphorus concentration database (DOPv2021). Sci Data 9, 772 (2022). [https://doi.org/10.1038/s41597-022-01873-7](https://doi.org/10.1038/s41597-022-01873-7)
 
-* Yan, Z., Yang, N., **Liang, Z.**, Yan, M., Zhong, X., Zhang, Y., ... & Xin, Y. (2021). Active dissolved organic nitrogen cycling hidden in large river and environmental implications. Science of The Total Environment, 795, 148882. [https://doi.org/10.1016/j.scitotenv.2021.148882](https://doi.org/10.1016/j.scitotenv.2021.148882)
+* Letscher, R. T., Wang, W.-L., **Liang, Z.**, & Knapp, A. N.. Regionally variable contribution of dissolved organic phosphorus to marine annual net community production. Global Biogeochemical Cycles, 36, e2022GB007354 (2022). [https://doi.org/10.1029/2022GB007354](https://doi.org/10.1029/2022GB007354)
+
+* Knapp, A. N., Letscher, R. T., **Liang, Z.** DOP concentration observations from the global ocean between 1990 and 2021 (DOP N2 fixation and export production project). Biological and Chemical Oceanography Data Management Office (BCO-DMO) (2022). [https://doi.org/10.26008/1912/bco-dmo.855139.3](https://doi.org/10.26008/1912/bco-dmo.855139.3)
+
+* Yan, Z., Yang, N., **Liang, Z.**, Yan, M., Zhong, X., Zhang, Y., ... & Xin, Y.  Active dissolved organic nitrogen cycling hidden in large river and environmental implications. Science of The Total Environment, 795, 148882 (2021). [https://doi.org/10.1016/j.scitotenv.2021.148882](https://doi.org/10.1016/j.scitotenv.2021.148882)
 
 * **Liang, Z.**,Pan, Y,Zhu,S,et al.Spatiotemporal distribution and influencing factors of total suspended particles in the Yangtze River Estuary adjacent sea area[J].Journal of Xiamen University(Natural Science),2020,59(S1):50-55.[https://doi.org/10.6043/j.issn.0438-0479.202007117](https://doi.org/10.6043/j.issn.0438-0479.202007117) (in Chinese)
 
