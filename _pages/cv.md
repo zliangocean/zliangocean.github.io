@@ -49,10 +49,14 @@ Field Experiences
 
 Conferences, workshops and Talks
 ======
+* **Liang, Z.**, Marconi, D, Sigman, D., & Knapp, A.. Dissolved Organic Nitrogen Concentration and d15N Distribution along a Zonal Transect in the South Pacific. 2022 Ocean Sciences Meeting. (**vitual talk**)
+* **Liang, Z.**, Letscher, Robert, & Knapp, Angela. Phosphate and Iron Control Global Surface Ocean Dissolved Organic Phosphorus Concentrations. ASLO meeting 2021. (**vitual talk**)
+* **Liang, Z.**, Letscher, R.T., McCabe, K., Marconi, D., Sigman, D.M., & Knapp, A.N.. Dissolved organic phosphorus (DOP) distributions in the Eastern Indian Ocean and subtropical South Pacific Ocean. 2020 Ocean Sciences Meeting. (**poster**)
+* Yan, Z., **Liang, Z.**, Zhong, X., Yan, M., & Xin, Y. ( Cycling of Dissolved Organic Nitrogen in a High Turbidity and High Dissolved Inorganic Nitrogen Content River-a case study in Yellow River, China. 2020 Ocean Sciences Meeting. (**poster**)
+* **Liang,Z**, tutorial-based OCIM workshop, Woods Hole, MA, USA, June 2019. (**participant**)
 
-* **Liang,Z** and co-authors, Dissolved Organic Phosphorus (DOP) Distributions in the Eastern Indian Ocean and Subtropical Pacific Ocean , Ocean Science Meeting, San Diego, CA, USA, Feb 2020 (poster)
-* **Liang,Z**, tutorial-based OCIM workshop, Woods Hole, MA, USA, June 2019
 
-
-Memberships
+Professional Memberships
 ======
+American Geophysical Union (AGU), American Society
+for Limnology and Oceanography (ASLO), US Chess Federation (rating: 1772)
