@@ -24,15 +24,15 @@ Publications
 ======
 * **Liang, Z.**, Letscher, R.T. & Knapp, A.N. Dissolved organic phosphorus concentrations in the surface ocean controlled by both phosphate and iron stress. Nat. Geosci. 15, 651–657 (2022). [https://doi.org/10.1038/s41561-022-00988-1](https://doi.org/10.1038/s41561-022-00988-1)
 
-* Knapp, A. N., Letscher, R. T., **Liang, Z.** (2022) DOP concentration observations from the global ocean between 1990 and 2021 (DOP N2 fixation and export production project). Biological and Chemical Oceanography Data Management Office (BCO-DMO). [https://doi.org/10.26008/1912/bco-dmo.855139.3](https://doi.org/10.26008/1912/bco-dmo.855139.3)
+* Knapp, A. N., Letscher, R. T., **Liang, Z.** DOP concentration observations from the global ocean between 1990 and 2021 (DOP N2 fixation and export production project). Biological and Chemical Oceanography Data Management Office (BCO-DMO), (2022). [https://doi.org/10.26008/1912/bco-dmo.855139.3](https://doi.org/10.26008/1912/bco-dmo.855139.3)
 
 * Yan, Z., Yang, N., **Liang, Z.**, Yan, M., Zhong, X., Zhang, Y., ... & Xin, Y. (2021). Active dissolved organic nitrogen cycling hidden in large river and environmental implications. Science of The Total Environment, 795, 148882. [https://doi.org/10.1016/j.scitotenv.2021.148882](https://doi.org/10.1016/j.scitotenv.2021.148882)
 
 * **Liang, Z.**,Pan, Y,Zhu,S,et al.Spatiotemporal distribution and influencing factors of total suspended particles in the Yangtze River Estuary adjacent sea area[J].Journal of Xiamen University(Natural Science),2020,59(S1):50-55.[https://doi.org/10.6043/j.issn.0438-0479.202007117](https://doi.org/10.6043/j.issn.0438-0479.202007117) (in Chinese)
 
-* **Liang, Z.**,Pan, Y,Zhang, J,et al.Data analysis of marine variables in the Yangtze River Estuary adjacent sea area in summer of 2016[J].Journal of Xiamen University(Natural Science),2020,59(S1):69-74.[https://doi.org/j.issn.0438-0479.202007115](https://doi.org/j.issn.0438-0479.202007115) (in Chinese)
+* **Liang, Z.**,Pan, Y,Zhang, J,et al.Data analysis of marine variables in the Yangtze River Estuary adjacent sea area in summer of 2016[J].Journal of Xiamen University(Natural Science),2020,59(S1):69-74.[https://doi.org/10.6043/j.issn.0438-0479.202007115](https://doi.org/10.6043/j.issn.0438-0479.202007115) (in Chinese)
 
-* Pan, Y, **Liang, Z.**,Wang, H,et al.The distribution and influence factors of COD in the Yangtze River Estuary adjacent sea area[J].Journal of Xiamen University(Natural Science),2020,59(S1):63-68.[https://doi.org/j.issn.0438-0479.202007116](https://doi.org/j.issn.0438-0479.202007116) (in Chinese)
+* Pan, Y, **Liang, Z.**,Wang, H,et al.The distribution and influence factors of COD in the Yangtze River Estuary adjacent sea area[J].Journal of Xiamen University(Natural Science),2020,59(S1):63-68.[https://doi.org/10.6043/j.issn.0438-0479.202007116](https://doi.org/10.6043/j.issn.0438-0479.202007116) (in Chinese)
 
 
 Field Experiences
