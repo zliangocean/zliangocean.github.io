@@ -10,6 +10,7 @@ redirect_from:
 
 I am a PhD candidate in chemical oceanography at Florida State University. Throughout my doctoral research, I've integrated lab work with advanced modeling to investigate nitrogen and phosphorus cycling within ocean environments. In the lab, I undertake a versatile role — from conducting sample analysis to managing, compiling, and interpreting data. Complementing this lab work, I've constructed data-driven inverse models that effectively assimilate these data, resulting in robust outputs aligned with real-world observations! 
 
+Contact Information: zl18c@fsu.edu
 
 Research Interests
 ======
