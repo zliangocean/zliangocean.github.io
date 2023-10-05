@@ -8,11 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a chemical oceanographer by training. I combined both lab and model work to understand and  predict changes in the ocean system, especially for the nutrient biogeochemistry. I collected and analyzed inorganic and organic nutrients (dissolved organic nitrogen/phosphorus) in seawater samples from the global ocean, compiled dissolved organic phosphorus concentrations into a global database and made inverse physical-biogeochemical models to assimilate these observations.I also like play with ocean data from different sources (e.g. MODIS, BGC-ARGO floats).
+I am a PhD candidate in chemical oceanography at Florida State University. Throughout my doctoral research, I've integrated lab work with advanced modeling to investigate nitrogen and phosphorus cycling within ocean environments. In the lab, I undertake a versatile role — from conducting sample analysis to managing, compiling, and interpreting data. Complementing this lab work, I've constructed data-driven inverse models that effectively assimilate these data, resulting in robust outputs aligned with real-world observations! 
+
 
 Research Interests
 ======
-1. Nutrient cycling in the global ocean 
+1. Nutrient cycling in the ocean 
 1. Dissolved organic nitrogen (DON) and dissolved organic phosphorus (DOP)
 1. Global biogeochemical inverse modeling 
 1. Ocean data science
