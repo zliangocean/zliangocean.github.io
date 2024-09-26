@@ -8,9 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in chemical oceanography at Florida State University. Throughout my doctoral research, I've integrated lab work with advanced modeling to investigate nitrogen and phosphorus cycling within ocean environments. Specifically, my research focus on the role of dissolved organic nitrogen and phosphorus as nutrient sources to sustain phytoplankton growth in oligotrophic gyres. In the lab, I undertake a versatile role — from conducting sample analysis to managing, compiling, and interpreting data. Complementing this lab work, I've constructed data-driven inverse models that effectively assimilate these data, resulting in robust outputs aligned with real-world observations! 
+I completed my Ph.D. in Chemical Oceanography at Florida State University in 2024, advised by Dr. Angela Knapp. I am now a postdoctoral fellow at Carnegie Science, based at Caltech in Pasadena, working with Dr. Emily Zakem.
 
-Contact Information: zl18c@fsu.edu
+During my Ph.D., I did both laboratory and modeling work to investigate the production and consumption patterns of dissolved organic phosphorus (DOP) and dissolved organic nitrogen (DON) in the global ocean, focusing on their roles as nutrient sources sustaining phytoplankton growth in oligotrophic gyres. My research involved measuring concentrations of DON and DOP and analyzing the nitrogen isotopic composition of DON in the lab. I compiled the most recent global DOP concentration database (DOPv2021) and developed global models to simulate the distribution and cycling of DON and DOP in the ocean.
+
+Currently, my work focuses on modeling microbially driven biogeochemical processes in the ocean.
+
+Contact Information: ziang@carnegiescience.edu
 
 Research Interests
 ======
