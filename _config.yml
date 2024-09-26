@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhou Liang"
+  name             : "Dr. Zhou Liang"
   avatar           : "zliangpic2.jpg"
-  bio              : "PhD candidate in chemical oceanography"
-  location         : "Tallahassee, FL"
+  bio              : "Postdoctoral Fellow at Carnegie Science"
+  location         : "Pasadena, CA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=i1De5dgAAAAJ&hl=en&oi=sra"
-  email            : "zl18c@fsu.edu"
+  email            : "zliang@carnegiescience.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
