@@ -14,7 +14,7 @@ During my Ph.D., I did both laboratory and modeling work to investigate the prod
 
 Currently, my work focuses on modeling microbially driven biogeochemical processes in the ocean.
 
-Contact Information: ziang@carnegiescience.edu
+Contact Information: zliang@carnegiescience.edu
 
 Research Interests
 ======
