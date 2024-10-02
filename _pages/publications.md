@@ -15,10 +15,13 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-2022
+
+2023
 ======
 * **Liang, Z.**,  Letscher, R. T., & Knapp, A. N. (2023). Global Patterns of Surface Ocean Dissolved Organic Matter Stoichiometry. Global Biogeochemical Cycles, 37(12).[https://doi.org/10.1029/2023GB007788](https://doi.org/10.1029/2023GB007788)
 
+2022
+======
 * **Liang, Z.**, Letscher, R.T. & Knapp, A.N. Dissolved organic phosphorus concentrations in the surface ocean controlled by both phosphate and iron stress. Nat. Geosci. 15, 651–657 (2022). [https://doi.org/10.1038/s41561-022-00988-1](https://doi.org/10.1038/s41561-022-00988-1)
 
 * **Liang, Z.**, McCabe, K., Fawcett, S.E., Forrer, H.J., Jeandel, C., Marconi, D., Planquette, H., Saito, M.A., Sohm, J.A., Thomas, R.K., Letscher, R.T., and A.N. Knapp, A global ocean dissolved organic phosphorus concentration database (DOPv2021). Sci Data 9, 772 (2022). [https://doi.org/10.1038/s41597-022-01873-7](https://doi.org/10.1038/s41597-022-01873-7)
