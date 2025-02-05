@@ -22,3 +22,5 @@ Academic Positions
 * 2018 - 2024 Graduate Research Assistant, Department of Earth, Ocean & Atmospheric Science, Florida State University 
 * 2020 - 2024 Graduate Teaching Assistant, Department of Earth, Ocean & Atmospheric Science, Florida State University 
 
+
+([Full Zhou's CV](/files/ZhouLiang-CV.pdf))
