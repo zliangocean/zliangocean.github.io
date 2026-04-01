@@ -15,15 +15,18 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+2025
+======
+* **Liang, Z.**, Marconi, D., Sigman, D.M., and Knapp, A. N., Production and consumption of dissolved organic nitrogen across the South Pacific: An isotopic perspective from a zonal transect. Global Biogeochemical Cycles, 39, e2025GB008736. [https://doi.org/10.1029/2025GB008736](https://doi.org/10.1029/2025GB008736)
+
+2025
+======
+* **Liang, Z.**, Marconi, D., Sigman, D.M., and Knapp, A. N., Production and consumption of dissolved organic nitrogen across the South Pacific: An isotopic perspective from a zonal transect. Global Biogeochemical Cycles, 39, e2025GB008736. [https://doi.org/10.1029/2025GB008736](https://doi.org/10.1029/2025GB008736)
+
 
 2025
 ======
 * Zhong, Y., Li, Z., Shi, X., Isson, T., Yu, J., Kender, S., **Liang, Z.**, Swann, G. E. A., Pullen, A., Weber, M. E., Du, J., Larrasoaña, J. C., Zhang, J., Song, Y., González, F. J., Kaboth-Bahr, S., Li, H., Zhang, Q., Zhao, D., Cao, W., Zhao, M., & Liu, Q. (2025). Enhanced phosphorus weathering contributed to Late Miocene cooling. Nature Communications, 16(1). [https://doi.org/10.1038/s41467-025-56477-7](https://doi.org/10.1038/s41467-025-56477-7)
-
-2024
-======
-* **Liang, Z.**, Letscher, R.T., and Knapp, A. N. Oligotrophic Ocean New Production Supported by Lateral Transport of Dissolved Organic Nutrients, Global Biogeochemical Cycles. [https://doi.org/10.22541/essoar.172745152.22046530/v1](https://doi.org/10.22541/essoar.172745152.22046530/v1)
-(preprint, under review)
 
 
 2023
